@@ -1,0 +1,15 @@
+[package]
+name = "Preventive-Care-Micro-payments"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule="0x93a5a355b8423a4f3416fb3d6de228d8b3fc2aa1822685fa8fbe7b89598edb4f"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
