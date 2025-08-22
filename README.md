@@ -11,10 +11,7 @@ Enable micro-payment models in health systems via decentralized finance.
 Provide a trustless environment where patients can deposit funds and authorized providers can only access them upon service delivery.
 Ensure transparency and accountability in health-related financial transactions.
 
-📍Contract address *devnet*
-<img width="1920" height="1080" alt="Screenshot 2025-08-22 112900" src="https://github.com/user-attachments/assets/5f89123b-f563-4900-9ed0-4ae92f233214" />
 
-transaction_hash": "0x055b75a03d2787fbfd0e65018daa24b5e8be68e94aea348cdf4b16e38bb357c9"
 
 🔮 Future Scope
 Planned enhancements and extensions for the PreventiveCare module include:
@@ -24,6 +21,9 @@ Insurance integration: Allow insurance smart contracts to auto-fund accounts bas
 Reward mechanism: Incentivize patients to get timely checkups via token rewards or reduced fees.
 Health data interoperability: Link with electronic health records while preserving data privacy and security.
 
-
-📌 Module Address: (Replace with actual address after deployment)
 MyModule::PreventiveCare
+
+📍Contract address *devnet*
+<img width="1920" height="1080" alt="Screenshot 2025-08-22 112900" src="https://github.com/user-attachments/assets/5f89123b-f563-4900-9ed0-4ae92f233214" />
+
+transaction_hash": "0x055b75a03d2787fbfd0e65018daa24b5e8be68e94aea348cdf4b16e38bb357c9"
